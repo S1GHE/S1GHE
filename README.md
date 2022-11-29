@@ -4,7 +4,7 @@
 
 ## Мои навыки
 ### Профессианальные навыки
-* ### Python <img src="https://github.com/S1GHE/S1GHE/blob/main/image/Python.png" height="16" alt=""/>
+* ### Python <img src="https://github.com/S1GHE/S1GHE/blob/main/image/Python.png" height="8" alt=""/>
   > На данном языке я уже программирую, на протяжении 2-х лет
   >> - Уверенное понимание основ языка
   >> - Понимание концепций объектно-ориентрованого программирования
