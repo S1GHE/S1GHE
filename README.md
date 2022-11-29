@@ -2,6 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я Python-разарботчик, которому интерсена и front-end разработка</h3>
 
-<h4>*Мои навыки и компитенции</h2>
+#### Мои навыки
 
 
