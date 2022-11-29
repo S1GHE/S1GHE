@@ -4,19 +4,19 @@
 
 ## Мои навыки
 ### Профессианальные навыки
-* ### Python <img src="https://github.com/S1GHE/S1GHE/blob/main/image/Python.png" height="8" alt=""/>
+* ### Python <img src="https://github.com/S1GHE/S1GHE/blob/main/image/Python.png" height="16" alt=""/>
   > На данном языке я уже программирую, на протяжении 2-х лет
   >> - Уверенное понимание основ языка
   >> - Понимание концепций объектно-ориентрованого программирования
   >> - Изучаю паттерны проектирования
   > Фреймвокри и библиотеки
-* ### JavaScript
+* ### JavaScript <img src="https://github.com/S1GHE/S1GHE/blob/main/image/js.png" height="16" alt=""/>
   Я совсем недавно начал изучать данный язык.
   - Понимание основ языка
   - Умею работать с dom
-* ### HTML
+* ### HTML <img src="https://github.com/S1GHE/S1GHE/blob/main/image/html.png" height="16" alt=""/>
   Что-то про JavaSript
-* ### CSS
+* ### CSS <img src="https://github.com/S1GHE/S1GHE/blob/main/image/css.png" height="16" alt=""/>
       Что-то про JavaSript
 * ### Дополнительные навыки
       Что-то про доплнительные навыки
